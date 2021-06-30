@@ -1,1 +1,1 @@
-# Covid_19_Prediction
+# Covid_19_Prediction using X-Ray Images
